@@ -4,6 +4,8 @@ body {
 
 header {
   position: relative;
+  margin-right: 100px;
+  margin-left: 100px;
 }
 
 .title {
