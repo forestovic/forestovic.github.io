@@ -10,17 +10,17 @@ header {
 
 .title {
   position: absolute;
-  top: 490px;
+  top: 230px;
   left: 580px;
   font-family: 'Abril Fatface', cursive;
 }
 .title h1 {
-  font-size: 130px;
+  font-size: 100px;
   margin: 0px;
 }
 
 .title h2 {
-  font-size: 70px;
+  font-size: 50px;
   margin: 0px;
 }
 
