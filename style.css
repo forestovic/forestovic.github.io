@@ -1,0 +1,47 @@
+body {
+  margin: 0px;
+}
+
+header {
+  position: relative;
+}
+
+.title {
+  position: absolute;
+  top: 490px;
+  left: 580px;
+  font-family: 'Abril Fatface', cursive;
+}
+.title h1 {
+  font-size: 130px;
+  margin: 0px;
+}
+
+.title h2 {
+  font-size: 70px;
+  margin: 0px;
+}
+
+.text {
+  color: #2b2a2a;
+  margin-left: 570px;
+  margin-right: 570px;
+  line-height: 25px;
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+blockquote {
+  color: white;
+  background-color: grey;
+  font-size: 40px;
+  height: 120px;
+  display: flex;
+  width: 600px;
+  margin-left: 570px;
+  margin-right: 570px;
+}
+
+blockquote::before {
+  content: '“';
+  font-size: 150px;
+}
